@@ -11,7 +11,7 @@ This repository contains a series of notebooks designed to develop my understand
 <b>Event Volume Visualisation</b><br>
     - Visualises overall event hit volume in 15-minute intervals using `matplotlib`<br>
     - Enables interactive exploration with `ipywidgets` to drill down and inspect specific Event IDs<br>
-    - Example output highlights the count of Event IDs 8 (CreateRemoteThread), 29 (FileExecutableDetected), 4648 (Explicit Credential Logon), and 4732 (A member was added to a security-enabled group)<br>
+    - Example output highlights the count of Event IDs 8 (Create Remote Thread), 29 (File Executable Detected), 4648 (Explicit Credential Logon), and 4732 (A member was added to a security-enabled group)<br>
 
 <b>Suspicious Event Alert</b><br>
     - Analyses Windows Event and Sysmon logs to detect and alert on potential security incidents<br>
