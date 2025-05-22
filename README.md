@@ -15,5 +15,5 @@ This repository contains a series of notebooks designed to develop my understand
 
 <b>Suspicious Event Alert</b><br>
     - Analyses Windows Event and Sysmon logs to detect and alert on potential security incidents<br>
-    - Parses a log file and flag suspicious events<br>
+    - Parses a log file and flag suspicious events mapped to relevant MITRE ATT&CK techniques<br>
     - Example alerts includes Privilege escalation attempts, Command line execution for network discovery and file transfer, Executable file creation, and Possible process injection
